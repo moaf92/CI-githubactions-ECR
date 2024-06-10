@@ -12,7 +12,5 @@ in this project we will use CI using githubactions,we will have maven to build t
 - Now time to build our docker image and upload it to amazon ECR, but first we have to create IAM user  with ecr and ecs polices, create ECR repo and RDS 
   database
 
-- create database of type MYSQL and create instance to run mysql client on it and clone our sourcecode of db to run againt MYSQL database
-
-- build our docker image mention our ecr regisrtey to store the buld image
+- Build our docker image mention our ecr regisrtey to store the bulid image
 
